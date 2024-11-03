@@ -12,4 +12,8 @@
     <ProjectReference Include="..\capaLogica\capaLogica.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Ejercicios\" />
+  </ItemGroup>
+
 </Project>
